@@ -1,0 +1,110 @@
+.wk-json-setting .wk-error-message {
+    padding-left: 20px;
+    color: #cc0000;
+}
+
+.wk-json-setting .wk-user-remove {
+    color: #cc0000;
+    font-size: 20px;
+}
+
+.wk-json-setting .fa-pencil {
+    font-size: 20px;
+}
+
+.wk-json-setting .wk-user-name .fa-check {
+    color: #4F8A10;
+    font-size: 18px;
+}
+
+.wk-json-setting .wk-user-edit-save {
+    font-size: 18px;
+}
+
+.wk-json-setting .wk-user-name .wk-user-not-found {
+    color: #cc0000;
+}
+
+.api_field {
+    width: 300px;
+    margin-right: 15px;
+}
+
+.wk-add-user {
+    margin-right: 15px;
+}
+
+.wk-field-hint {
+    display: block;
+    margin-top: 10px
+}
+
+.wk-flickr-shortcode {
+    padding: 20px;
+    display: block;
+    background: #ffffff;
+    margin-top: 15px;
+    border: 1px solid #e5e5e5;
+}
+
+.wk-flickr-shortcode .fa-files-o {
+    float: right;
+    font-size: 15px;
+    color: #878787;
+    transition: color 0.3s;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.wk-flickr-shortcode .copy-button {
+    float: right;
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    margin-top: -7px;
+}
+
+.wk-flickr-shortcode .copy-button:hover {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+}
+
+.wk-flickr-shortcode .fa-files-o:hover {
+    cursor: pointer;
+    color: #424040;
+}
+
+.wk-flickr-shortcode .copy-text {
+    position: absolute;
+    opacity: 0;
+}
+
+.wk-flickr-copy-message {
+    padding: 10px 25px;
+    display: block;
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.wk-flickr-copy-success-message {
+    background: #a0d13e;
+}
+
+.wk-flickr-copy-error-message  {
+    background: #e06060;
+}
